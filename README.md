@@ -10,7 +10,7 @@
     Discover the taste of real coffee
     <br/>
     <br/>
-    <a href="https://github.com//"><strong>Explore the docs »</strong></a>
+    <a href="https://gorillacoffee-mb.netlify.app"><strong>View Demo.»</strong></a>
     <br/>
     <br/>
   </p>
