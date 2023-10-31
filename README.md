@@ -26,7 +26,7 @@ Gorilla Coffee is an beautiful project focused on build and design with [Bootstr
 
 With this project I learn more about:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="32px"/> - [Bootstrap 5.3](https://getbootstrap.com) - containers, mobile and responsive layout, icons and more.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="16px"/> - [Bootstrap 5.3](https://getbootstrap.com) - containers, mobile and responsive layout, icons and more.
 
 
 
