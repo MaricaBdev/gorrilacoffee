@@ -30,7 +30,5 @@ With this project I learn more about:
 
 
 
-## Authors
 
-* **RaddyTheBrand** - *Developer* - [RaddyTheBrand](https://github.com/RaddyTheBrand/) - *Built the project* - [YouTube Video](https://www.youtube.com/watch?v=DvfezgoBRzY) - [Website](https://raddy.dev)
 
